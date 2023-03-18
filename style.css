@@ -1,0 +1,61 @@
+.cabecera  {
+    background-color: rgb(76, 64, 143);
+    width: auto;
+    height: 200px;
+   margin-bottom: 0.8px;
+
+} 
+.logo  {
+    height: 200px;
+  
+}
+.contiene-buscador  {
+
+    float: right;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 200px; 
+     
+}
+.buscador  {
+    width: 300px;
+    text-align: center;
+    padding-top: 4px;
+}
+    
+.busqueda  {
+  margin-left: 100px;
+}
+#contenedor1  {
+
+    width: auto;
+    height: auto;
+    background-color: rgb(141, 118, 102);  
+    
+}
+.contiene-celu  {
+    width: 300px;    
+    margin-left: 10px;
+    padding-top: 10PX;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.contiene-note  {
+    width: 300px;   
+    margin-left: auto;
+    margin-right: auto;
+}
+.contiene-impresora  {
+    width: 300px;
+    margin-left: 10px;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+.celular,.notebook,.impresora {
+    width: 300px;
+    height: 300px;
+    border: 2px solid;
+}
+
